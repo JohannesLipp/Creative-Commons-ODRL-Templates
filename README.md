@@ -11,3 +11,4 @@ ODRL representations of most common Creative Commons (CC) licenses.
   - Creative Commons namespace: https://creativecommons.org/ns#
 - CC licenses: https://creativecommons.org/licenses/ 
   - Example for CC BY-SA 4.0: https://creativecommons.org/licenses/by-sa/4.0/
+- CC Profile for ODRL 2.0: https://www.w3.org/community/odrl/work/cc/#section-3
